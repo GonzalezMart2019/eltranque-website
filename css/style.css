@@ -13,6 +13,13 @@ header {
   padding: 1.5rem 1rem;
 }
 
+header {
+  background-image: url('../images/nicaragua-flag.jpg');
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: multiply;
+}
+
 header h1 {
   margin: 0.2rem 0;
 }
